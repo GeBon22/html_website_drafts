@@ -62,6 +62,7 @@ body {
   transition: background 0.5s;
   letter-spacing: 3px;
   font-size: 20px;
+  border-radius: 10px;
 }
 
 .nav {
@@ -88,6 +89,7 @@ body {
   padding: 0 10px;
   transition: background 0.5s;
   letter-spacing: 3px;
+  border-radius: 10px;
 }
 
 .skills {
@@ -112,6 +114,7 @@ body {
   list-style: none;
   padding: 0 10px;
   transition: background 0.5s;
+  border-radius: 10px;
 }
 
 .skills ul li:hover {
