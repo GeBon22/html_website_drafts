@@ -12,6 +12,11 @@ body {
   font-weight: 100;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
 .container {
   margin: 0 auto;
   max-width: 940px;
@@ -212,9 +217,4 @@ body {
   .main img {
     width: 100%;
   }
-}
-
-a {
-  color: white;
-  text-decoration: none;
 }
